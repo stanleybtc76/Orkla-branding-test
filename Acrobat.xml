@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DefaultAssociations>
-  <!-- Nastavení výchozí aplikace pro PDF -->
-  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
-</DefaultAssociations>
